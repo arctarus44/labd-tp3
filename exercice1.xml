@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercice xsi:noNamespaceSchemaLocation="exercice1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<heure>13:40:00</heure>
+	<reel>-137.5</reel>
+	<chaine>yuip</chaine>
+	<img>jpg</img>
+	<isbn>11111111111</isbn>
+</exercice>
