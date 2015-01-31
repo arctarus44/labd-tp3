@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:simpleType name="operation">
+		<xs:restriction base="xs:token">
+			<xs:enumeration value="+"/>
+			<xs:enumeration value="-"/>
+			<xs:enumeration value="*"/>
+			<xs:enumeration value="/"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:complexType name="operateur">
+		<xs:choice maxOccurs="2" minOccurs="1">
+			<xs:element name="op" type="operateur"/>
+			<xs:choice>
+				<xs:element name="cons" type="xs:integer"/>
+				<xs:element name="var" type="xs:string"/>
+			</xs:choice>
+		</xs:choice>
+		<xs:attribute  name="val" type="operation"/>
+	</xs:complexType>
+	<xs:element name="expr" type="operateur"/>
+</xs:schema>
