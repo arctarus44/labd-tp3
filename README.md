@@ -15,7 +15,7 @@ exercice 2
 Le fichier contenant le fichier XML Schema [exercice2.xsd](https://github.com/arctarus44/labd-tp3/blob/master/exercice2.xsd)
 permettant de valider le fichier [okaz.xml](https://github.com/arctarus44/labd-tp3/blob/master/okaz.xml)
 
-exercice 2
+exercice 3
 ----------
 Le fichier contenant le fichier XML Schema [expression.xsd](https://github.com/arctarus44/labd-tp3/blob/master/expression.xsd)
 permettant de valider le fichier [expression.xml](https://github.com/arctarus44/labd-tp3/blob/master/expression.xml)
