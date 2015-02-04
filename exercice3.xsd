@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:simpleType name="t_type">
+		<xs:restriction base="xs:token">
+			<xs:enumeration value="aller"/>
+			<xs:enumeration value="retour"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="tnom_court">
+		<xs:restriction base="xs:token">
+			<xs:enumeration value="AA"/>
+			<xs:enumeration value="AB"/>
+			<xs:enumeration value="AC"/>
+			<xs:enumeration value="AD"/>
+			<xs:enumeration value="AE"/>
+			<xs:enumeration value="AF"/>
+			<xs:enumeration value="AG"/>
+			<xs:enumeration value="AH"/>
+			<xs:enumeration value="AI"/>
+			<xs:enumeration value="AJ"/>
+			<xs:enumeration value="AK"/>
+			<xs:enumeration value="AL"/>
+			<xs:enumeration value="AM"/>
+			<xs:enumeration value="AO"/>
+			<xs:enumeration value="AP"/>
+			<xs:enumeration value="AQ"/>
+			<xs:enumeration value="AR"/>
+			<xs:enumeration value="AS"/>
+			<xs:enumeration value="AT"/>
+			<xs:enumeration value="AU"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="tnom_long">
+		<xs:restriction base="xs:token">
+			<xs:enumeration value="Alpha Alpha"/>
+			<xs:enumeration value="Alpha Bravo"/>
+			<xs:enumeration value="Alpha Charlie"/>
+			<xs:enumeration value="Alpha Delta"/>
+			<xs:enumeration value="Alpha Echo"/>
+			<xs:enumeration value="Alpha Foxtrot"/>
+			<xs:enumeration value="Alpha Golf"/>
+			<xs:enumeration value="Alpha Hotel"/>
+			<xs:enumeration value="Alpha IIndia"/>
+			<xs:enumeration value="Alpha Juliet"/>
+			<xs:enumeration value="Alpha Kilo"/>
+			<xs:enumeration value="Alpha Lima"/>
+			<xs:enumeration value="Alpha Mike"/>
+			<xs:enumeration value="Alpha Oscar"/>
+			<xs:enumeration value="Alpha Papa"/>
+			<xs:enumeration value="Alpha Quebec"/>
+			<xs:enumeration value="Alpha Romeo"/>
+			<xs:enumeration value="Alpha Sierra"/>
+			<xs:enumeration value="Alpha Tango"/>
+			<xs:enumeration value="Alpha Uniform"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:complexType name="tequipe">
+		<xs:attribute name="abr" type="xs:token"/>
+	</xs:complexType>
+	
+	<xs:complexType name="tdescription">
+		<xs:attribute name="nom" type="tnom_long"/>
+		<xs:attribute name="court" type="tnom_court"/>
+	</xs:complexType>
+	
+	<xs:complexType name="tscore">
+		<xs:attribute name="equipe1" type="xs:positiveInteger"/>
+		<xs:attribute name="equipe2" type="xs:positiveInteger"/>
+	</xs:complexType>
+	
+	<xs:complexType name="tmatch">
+		<xs:sequence>
+			<xs:element name="equipe" type="tequipe" minOccurs="2" maxOccurs="2"/>
+			<xs:element name="score" type="tscore"/>
+		</xs:sequence>
+		<xs:attribute name="type" type="t_type"/>
+	</xs:complexType>
+	
+	<xs:complexType name="tjournee">
+		<xs:sequence>
+			<xs:element name="match" type="tmatch" minOccurs="10" maxOccurs="10"/>
+		</xs:sequence>
+		<xs:attribute name="numero" type="xs:positiveInteger"/>
+	</xs:complexType>
+	
+	<xs:complexType name="tchampionnat">
+		<xs:sequence>
+			<xs:element name="descriptionEquipe" type="tdescription" minOccurs="20" maxOccurs="20"/>
+			<xs:element name="journee" type="tjournee" minOccurs="38" maxOccurs="38"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:element name="championnat" type="tchampionnat"/>
+</xs:schema>

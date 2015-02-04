@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Wed Feb 04 19:31:39 CET 2015 -->
+
+<championnat xsi:noNamespaceSchemaLocation="exercice3.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	<descriptionEquipe nom="Alpha Alpha" court="AA" />
+	
+	<journee numero="1">
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+	<journee>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+		<match type="aller">
+			<equipe abr="AA"/>
+			<equipe abr="AB"/>
+			<score equipe1="1" equipe2="2" />
+		</match>
+	</journee>
+</championnat>
