@@ -22,4 +22,4 @@ permettant de valider le fichier [expression.xml](https://github.com/arctarus44/
 exercice 4
 ----------
 Le fichier contenant le fichier XML Schema [exercice4.xsd](https://github.com/arctarus44/labd-tp3/blob/master/exercice4.xsd)
-permettant de valider le fichier  [expression.xml](https://github.com/arctarus44/labd-tp3/blob/master/championnat.xml) (fichier de test crée pour l'occasion.
+permettant de valider le fichier  [expression.xml](https://github.com/arctarus44/labd-tp3/blob/master/championnat.xml) (fichier de test crée pour l'occasion).
